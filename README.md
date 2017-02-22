@@ -1,12 +1,12 @@
 ![Sidetiq](http://f.cl.ly/items/1W3k0R2V2x3n3S1t1M0B/sidetiq.png)
 =========
 
-[![Build Status](https://travis-ci.org/tobiassvn/sidetiq.png)](https://travis-ci.org/tobiassvn/sidetiq)
-[![Dependency Status](https://gemnasium.com/tobiassvn/sidetiq.png)](https://gemnasium.com/tobiassvn/sidetiq)
-[![Coverage Status](https://coveralls.io/repos/tobiassvn/sidetiq/badge.png)](https://coveralls.io/r/tobiassvn/sidetiq)
-[![Code Climate](https://codeclimate.com/github/tobiassvn/sidetiq.png)](https://codeclimate.com/github/tobiassvn/sidetiq)
+How to use
+--------
 
-Recurring jobs for [Sidekiq](http://mperham.github.com/sidekiq/).
+```
+gem 'sidetiq', '>= 0.6.4', :github => 'tomoyuki-yanagisawa/sidetiq-mod'
+```
 
 Overview
 --------
